@@ -1,0 +1,23 @@
+body {
+    background-color: #EDEDED;
+    font-family: 'Alata', sans-serif;
+    text-transform: uppercase;
+}
+
+.square {
+    padding-top: 100%;
+    transition: all .5s;
+}
+
+.console {
+    max-height: 25vh;
+}
+
+.container {
+    max-width: 600px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #EE6123;
+}
