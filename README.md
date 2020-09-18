@@ -1,5 +1,6 @@
 # Color-Game
 A simple RGB color guessing game. 
+You can play it here: https://rayls.io/colorgame/
 
 This project served as a great introduction to DOM manipulation and Javascript. 
 
